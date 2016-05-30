@@ -2,6 +2,11 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>36.0</version>
     <types>
+        <members>ApexTest1</members>
+        <members>OlderAccountsUtility</members>
+        <members>Sample</members>
+        <members>c3</members>
+        <members>pone</members>
         <members>simplegetset</members>
         <name>ApexClass</name>
     </types>
@@ -19,6 +24,9 @@
         <name>Community</name>
     </types>
     <types>
+        <members>Garage</members>
+        <members>standard__AppLauncher</members>
+        <members>standard__Chatter</members>
         <members>standard__Community</members>
         <members>standard__Content</members>
         <members>standard__Insights</members>
