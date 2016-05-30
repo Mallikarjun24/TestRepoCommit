@@ -6,6 +6,5 @@
     <tab>standard-ContentSearch</tab>
     <tab>standard-ContentSubscriptions</tab>
     <tab>standard-ContentFavorites</tab>
-    <tab>Product__c</tab>
     <tab>Student__c</tab>
 </CustomApplication>
