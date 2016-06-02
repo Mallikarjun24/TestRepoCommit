@@ -43,10 +43,14 @@
         <members>Account.CustomerPriority__c</members>
         <members>Account.Name__c</members>
         <members>Account.NumberofLocations__c</members>
+        <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>AccountCleanInfo.Start_Date__c</members>
         <members>Campsite_Reservation__c.Campsite__c</members>
         <members>Campsite_Reservation__c.End_Date__c</members>
+        <members>Campsite_Reservation__c.Start_Date__c</members>
+        <members>Campsite_Reservation__c.User__c</members>
+        <members>Campsite__c.Description__c</members>
         <name>CustomField</name>
     </types>
 </Package>
