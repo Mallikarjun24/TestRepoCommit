@@ -8,6 +8,5 @@
     <tab>standard-Solution</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
-    <tab>Product__c</tab>
     <tab>Student__c</tab>
 </CustomApplication>

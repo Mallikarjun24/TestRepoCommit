@@ -173,12 +173,8 @@
     <tab>standard-Opportunity</tab>
     <tab>standard-Lead</tab>
     <tab>standard-Knowledge</tab>
-    <tab>Product__c</tab>
     <tab>Student__c</tab>
     <workspaceMappings>
-        <mapping>
-            <tab>Product__c</tab>
-        </mapping>
         <mapping>
             <tab>Student__c</tab>
         </mapping>

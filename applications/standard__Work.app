@@ -14,4 +14,5 @@
     <tab>standard-Calibration</tab>
     <tab>standard-GoalV2</tab>
     <tab>standard-Metric</tab>
+    <tab>Student__c</tab>
 </CustomApplication>
