@@ -67,6 +67,12 @@
         <members>Lead.Primary__c</members>
         <members>Office__c.OfficeLoc__c</members>
         <members>Office__c.OfficeName__c</members>
+        <members>Opportunity.CurrentGenerators__c</members>
+        <members>Opportunity.DeliveryInstallationStatus__c</members>
+        <members>Opportunity.MainCompetitors__c</members>
+        <members>Opportunity.OrderNumber__c</members>
+        <members>Opportunity.TrackingNumber__c</members>
+        <members>StudentContact__c.StudentName__c</members>
         <members>Trail__c.Last_Inspection_Date__c</members>
         <members>testlabel__c.phone__c</members>
         <name>CustomField</name>
