@@ -64,6 +64,9 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Campsite_Reservation__c</members>
+        <members>Campsite__c</members>
+        <members>Demo__c</members>
         <members>Depart__c</members>
         <members>Office__c</members>
         <name>CustomObject</name>
