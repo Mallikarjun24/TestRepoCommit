@@ -73,8 +73,12 @@
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
         <members>StudentContact__c.StudentName__c</members>
+        <members>Trail__c.Description__c</members>
+        <members>Trail__c.Distance__c</members>
         <members>Trail__c.Last_Inspection_Date__c</members>
         <members>testlabel__c.phone__c</members>
+        <members>testlabel__c.testlabelDesc__c</members>
+        <members>testlabeltest__c.testName__c</members>
         <name>CustomField</name>
     </types>
     <types>
