@@ -51,10 +51,16 @@
         <members>Campsite_Reservation__c.Start_Date__c</members>
         <members>Campsite_Reservation__c.User__c</members>
         <members>Campsite__c.Description__c</members>
+        <members>Case.SLAViolation__c</members>
+        <members>Contact.Languages__c</members>
+        <members>Contact.Level__c</members>
+        <members>Demo__c.GoalName__c</members>
         <members>Depart__c.DepartAddr__c</members>
         <members>Depart__c.DepartNo__c</members>
         <members>Office__c.OfficeLoc__c</members>
         <members>Office__c.OfficeName__c</members>
+        <members>Trail__c.Last_Inspection_Date__c</members>
+        <members>testlabel__c.phone__c</members>
         <name>CustomField</name>
     </types>
     <types>
