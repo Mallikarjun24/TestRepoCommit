@@ -51,6 +51,8 @@
         <members>Campsite_Reservation__c.Start_Date__c</members>
         <members>Campsite_Reservation__c.User__c</members>
         <members>Campsite__c.Description__c</members>
+        <members>Case.EngineeringReqNumber__c</members>
+        <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
         <members>Case.SLAViolation__c</members>
         <members>Contact.Languages__c</members>
@@ -60,6 +62,9 @@
         <members>Depart__c.DepartAddr__c</members>
         <members>Depart__c.DepartNo__c</members>
         <members>Goal.OrigGoalId__c</members>
+        <members>Lead.CurrentGenerators__c</members>
+        <members>Lead.NumberofLocations__c</members>
+        <members>Lead.Primary__c</members>
         <members>Office__c.OfficeLoc__c</members>
         <members>Office__c.OfficeName__c</members>
         <members>Trail__c.Last_Inspection_Date__c</members>
