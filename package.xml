@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>36.0</version>
     <types>
         <members>ApexTest1</members>
         <members>OlderAccountsUtility</members>
@@ -100,6 +101,8 @@
         <members>Trail__c.Description__c</members>
         <members>Trail__c.Distance__c</members>
         <members>Trail__c.Last_Inspection_Date__c</members>
+        <members>custobja__c.custobjafld2__c</members>
+        <members>custobja__c.custobjafld__c</members>
         <members>custobjj__c.custfld2__c</members>
         <members>custobjj__c.custfld__c</members>
         <members>testlabel__c.phone__c</members>
@@ -111,6 +114,8 @@
     <types>
         <members>custlb1</members>
         <members>custlb2</members>
+        <members>custlbl3</members>
+        <members>custlbl4</members>
         <name>CustomLabel</name>
     </types>
     <types>
@@ -184,6 +189,7 @@
         <members>WorkFeedbackRequest</members>
         <members>WorkFeedbackTemplate</members>
         <members>WorkPerformanceCycle</members>
+        <members>custobja__c</members>
         <members>custobjj__c</members>
         <members>testlabel__c</members>
         <members>testlabeltest__c</members>
@@ -528,14 +534,6 @@
         <name>Role</name>
     </types>
     <types>
-        <members>Account.Billing</members>
-        <members>Campaign.ViewCampaignInfluenceReport</members>
-        <members>Case.UpsellCrosssellOpportunity</members>
-        <members>Contact.Google_Info</members>
-        <members>Opportunity.DeliveryStatus</members>
-        <name>WebLink</name>
-    </types>
-    <types>
         <members>Account</members>
         <members>Activities</members>
         <members>Address</members>
@@ -561,5 +559,12 @@
         <members>Security</members>
         <name>Settings</name>
     </types>
-    <version>36.0</version>
+    <types>
+        <members>Account.Billing</members>
+        <members>Campaign.ViewCampaignInfluenceReport</members>
+        <members>Case.UpsellCrosssellOpportunity</members>
+        <members>Contact.Google_Info</members>
+        <members>Opportunity.DeliveryStatus</members>
+        <name>WebLink</name>
+    </types>
 </Package>

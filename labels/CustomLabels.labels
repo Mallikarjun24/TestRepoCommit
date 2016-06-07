@@ -14,4 +14,18 @@
         <shortDescription>custlb2</shortDescription>
         <value>custlb2</value>
     </labels>
+    <labels>
+        <fullName>custlbl3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>custlbl3</shortDescription>
+        <value>custlbl3</value>
+    </labels>
+    <labels>
+        <fullName>custlbl4</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>custlbl4</shortDescription>
+        <value>custlbl4</value>
+    </labels>
 </CustomLabels>
