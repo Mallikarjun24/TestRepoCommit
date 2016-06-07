@@ -76,10 +76,17 @@
         <members>Trail__c.Description__c</members>
         <members>Trail__c.Distance__c</members>
         <members>Trail__c.Last_Inspection_Date__c</members>
+        <members>custobjj__c.custfld2__c</members>
+        <members>custobjj__c.custfld__c</members>
         <members>testlabel__c.phone__c</members>
         <members>testlabel__c.testlabelDesc__c</members>
         <members>testlabeltest__c.testName__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>custlb1</members>
+        <members>custlb2</members>
+        <name>CustomLabel</name>
     </types>
     <types>
         <members>Campsite_Reservation__c</members>
@@ -87,6 +94,7 @@
         <members>Demo__c</members>
         <members>Depart__c</members>
         <members>Office__c</members>
+        <members>custobjj__c</members>
         <name>CustomObject</name>
     </types>
 </Package>
