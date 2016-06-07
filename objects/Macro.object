@@ -51,6 +51,11 @@
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
+    <recordTypes>
+        <fullName>recordtype</fullName>
+        <active>true</active>
+        <label>recordtype</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>LastModifiedDate</customTabListAdditionalFields>
         <customTabListAdditionalFields>LastModifiedBy</customTabListAdditionalFields>

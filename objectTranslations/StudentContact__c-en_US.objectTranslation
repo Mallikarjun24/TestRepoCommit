@@ -8,5 +8,10 @@
         <plural>true</plural>
         <value>StudentContacts</value>
     </caseValues>
+    <fields>
+        <label><!-- Student --></label>
+        <name>StudentName__c</name>
+        <relationshipLabel><!-- StudentContacts --></relationshipLabel>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

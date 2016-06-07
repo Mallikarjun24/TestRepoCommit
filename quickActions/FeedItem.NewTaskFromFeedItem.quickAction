@@ -36,7 +36,7 @@
         </quickActionLayoutColumns>
         <quickActionLayoutColumns/>
     </quickActionLayout>
-    <standardLabel>CreateNew</standardLabel>
+    <standardLabel>AddRecord</standardLabel>
     <targetObject>Task</targetObject>
     <type>Create</type>
 </QuickAction>

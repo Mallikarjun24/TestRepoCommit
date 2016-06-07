@@ -8,5 +8,15 @@
         <plural>true</plural>
         <value>Demos</value>
     </caseValues>
+    <fields>
+        <label><!-- Goal --></label>
+        <name>GoalName__c</name>
+        <relationshipLabel><!-- Demos --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Student --></label>
+        <name>StudentName__c</name>
+        <relationshipLabel><!-- Demos --></relationshipLabel>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
