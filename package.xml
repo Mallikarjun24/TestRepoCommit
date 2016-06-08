@@ -107,6 +107,8 @@
         <members>custobjb__c.custobjbfld2__c</members>
         <members>custobjj__c.custfld2__c</members>
         <members>custobjj__c.custfld__c</members>
+        <members>custobjobj__c.custobjobjfld2__c</members>
+        <members>custobjobj__c.custobjobjfld__c</members>
         <members>testlabel__c.phone__c</members>
         <members>testlabel__c.testlabelDesc__c</members>
         <members>testlabeltest__c.testName__c</members>
@@ -120,6 +122,8 @@
         <members>custlbl4</members>
         <members>custlbl5</members>
         <members>custlbl6</members>
+        <members>label7</members>
+        <members>label8</members>
         <name>CustomLabel</name>
     </types>
     <types>
@@ -196,6 +200,7 @@
         <members>custobja__c</members>
         <members>custobjb__c</members>
         <members>custobjj__c</members>
+        <members>custobjobj__c</members>
         <members>testlabel__c</members>
         <members>testlabeltest__c</members>
         <name>CustomObject</name>
